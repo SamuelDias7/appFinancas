@@ -1,0 +1,2 @@
+#appFinancas
+Informe o seu salário e o programa fala o quanto você deve guardar para despezas futuras.\nO calculo foi feito baseado na regra dos 70/30, onde 70% do salario devem ser usado \npara suas despesas com seu custo de vida e os outros 30% para reservas financeiras a \ncurto, médio e longo prazo.\nObs:não há necessidade de ponto.
